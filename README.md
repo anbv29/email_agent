@@ -1,4 +1,4 @@
-# ANBV Wajo proactive email agent
+# ANBV proactive email agent
 
 This repository implements an actual agent loop for proactive email management:
 
